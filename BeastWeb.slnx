@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BeastWeb/BeastWeb.vcxproj" Id="03d1fe79-ea5d-453c-9ed2-a5110e629426" />
+</Solution>
